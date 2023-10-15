@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Final redo</string>
+    <string name="your_string_name">Please enter names first.</string>
+    <string name="spin">Spin</string>
+    <string name="enter_names_separated_by_commas">Enter names separated by commas</string>
+
+</resources>
